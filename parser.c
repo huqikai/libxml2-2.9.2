@@ -1,3 +1,4 @@
+// srj i modified this
 /*
  * parser.c : an XML 1.0 parser, namespaces and validity support are mostly
  *            implemented on top of the SAX interfaces

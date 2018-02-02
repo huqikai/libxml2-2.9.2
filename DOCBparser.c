@@ -40,6 +40,9 @@ docbEncodeEntities(unsigned char *out ATTRIBUTE_UNUSED,
                    int *inlen ATTRIBUTE_UNUSED,
                    int quoteChar ATTRIBUTE_UNUSED)
 {
+	/*
+	fsfdsfdsf
+	*/
     static int deprecated = 0;
 
     if (!deprecated) {

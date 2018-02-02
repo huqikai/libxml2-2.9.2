@@ -4031,7 +4031,7 @@ xmlResolveResourceFromCatalog(const char *URL, const char *ID,
 }
 
 #endif
-
+/*Rohans Comment*/
 /**
  * xmlDefaultExternalEntityLoader:
  * @URL:  the URL for the entity to load

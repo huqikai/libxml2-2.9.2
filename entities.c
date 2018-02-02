@@ -2,7 +2,7 @@
  * entities.c : implementation for the XML entities handling
  *
  * See Copyright for the status of this software.
- *
+ *rgdsvfxvcxc 
  * daniel@veillard.com
  */
 

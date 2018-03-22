@@ -1,4 +1,4 @@
-## Process this file with automake to produce Makefile.in
+## Process this file with automake to produce Makefile.infdsa
 
 ACLOCAL_AMFLAGS = -I m4
 

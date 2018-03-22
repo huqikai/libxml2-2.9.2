@@ -5,7 +5,7 @@
 libxml2-tests-$version.tar.gz contains 3 standalone C programs as well
 as a large amount of tests and results coming from libxml2 itself and
 from W3C, NIST, Sun Microsystems, Microsoft and James Clark. Each C
-program has a different testing purpose:
+program has a different testing purpose:gfds
 
   runtest.c : runs libxml2 basic internal regression tests
   runsuite.c: runs libxml2 against external regression tests

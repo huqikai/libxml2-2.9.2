@@ -2,7 +2,7 @@
  * threads.c: set of generic threading related routines
  *
  * See Copyright for the status of this software.
- *
+ *fdsaf
  * Gary Pennington <Gary.Pennington@uk.sun.com>
  * daniel@veillard.com
  */

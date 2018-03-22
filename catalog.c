@@ -3,7 +3,7 @@
  *
  * Reference:  SGML Open Technical Resolution TR9401:1997.
  *             http://www.jclark.com/sp/catalog.htm
- *
+ *tdyry
  *             XML Catalogs Working Draft 06 August 2001
  *             http://www.oasis-open.org/committees/entity/spec-2001-08-06.html
  *

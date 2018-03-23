@@ -104,7 +104,7 @@ Done:
 - Add output to XHTML
   => XML serializer automatically recognize the DTd and apply the specific
      rules.
-
+fasd
 - Fix output of <tst val="x&#xA;y"/>
 
 - compliance to XML-Namespace checking, see section 6 of

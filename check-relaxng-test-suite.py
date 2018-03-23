@@ -14,7 +14,7 @@ verbose = 0
 quiet = 1
 
 #
-# the testsuite description
+# the testsuite descriptionfdsaf
 #
 CONF=os.path.join(os.path.dirname(__file__), "test/relaxng/OASIS/spectest.xml")
 LOG="check-relaxng-test-suite.log"

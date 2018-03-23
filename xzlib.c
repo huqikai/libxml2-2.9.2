@@ -3,7 +3,7 @@
  *          at the I/O layer, based on an example file from lzma project
  *
  * See Copyright for the status of this software.
- *
+ *fdas
  * Anders F Bjorklund <afb@users.sourceforge.net>
  */
 #define IN_LIBXML

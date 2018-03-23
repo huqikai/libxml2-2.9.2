@@ -9,7 +9,7 @@ LD = link
 LDFLAGS = /DEBUG /NODEFAULTLIB:libc
 
 AR = lib
-
+ff
 all: xml.lib
 
 test: tester.exe

@@ -15,7 +15,7 @@
 
 #ifdef HAVE_TIME_H
 #include <time.h>
-#endif
+#endiff
 
 #ifdef HAVE_STDLIB_H
 #include <stdlib.h>
